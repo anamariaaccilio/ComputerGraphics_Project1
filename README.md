@@ -2,5 +2,5 @@
 
 # Members
 - Ana Maria Accilio
-- 
+- Mariana Capuñay Correa
 - 
