@@ -26,5 +26,5 @@ About the definition, dynamic range refers to the amount of separation between t
 - Marschner, S & Shirley, P. (September 2021). Fundamentals of Computer Graphics (5th Edition). A K Peters/CRC Press.
 
 # Planning
-
+![Planning](planning.png)
 https://github.com/users/anamariaaccilio/projects/5
