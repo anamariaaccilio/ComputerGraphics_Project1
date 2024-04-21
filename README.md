@@ -5,7 +5,7 @@
 - Mariana Capuñay Correa
 - Max Antúnez Alfaro
 - Kiara Alexandra Balcázar Santa Cruz
-- 
+- Arthur Tadier
 
 
 # Description of the proyect
