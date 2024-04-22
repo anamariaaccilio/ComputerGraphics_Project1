@@ -9,7 +9,7 @@
 
 
 # Description of the proyect
-
+![HDR](example_HDR.jpg)
 In this project, we will explore the potential of High Dynamic Range (HDR) images, an advanced technique that allows capturing visible details in areas of light and shadow in high-contrast scenes. This technique has emerged as a technological solution to overcome the inherent limitations of conventional photography in representing these crucial details.
 
 The versatility of HDR images extends to multiple fields, highlighting their ability to accurately capture all the nuances present in scenes with wide differences in luminosity. This approach is particularly valuable in environments where there are very bright and very dark areas, such as natural landscapes, architectural interiors, and various real estate scenarios.
