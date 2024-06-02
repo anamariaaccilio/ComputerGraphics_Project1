@@ -29,4 +29,5 @@ About the definition, dynamic range refers to the amount of separation between t
 
 # Planning
 ![Planning](planning.png)
+
 https://github.com/users/anamariaaccilio/projects/5
